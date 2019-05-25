@@ -13,3 +13,6 @@ function logWhisper(string){
   console.logWhisper(string)
 }
 
+function sayHiToGrandma(string){
+  if string 
+}
